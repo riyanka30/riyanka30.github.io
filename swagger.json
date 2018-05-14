@@ -1,14 +1,14 @@
 {
   "swagger": "2.0",
   "info": {
-    "description": "This is a storyboard service server. You can find the code at [sb-svc](https://git.mckinsey-solutions.com/storyboard/sb-svc).",
+    "description": "This is a storyboard service server.",
     "version": "1.29",
     "title": "Storyboard service",
     "contact": {
-      "email": "mckpvbb-pune@thoughtworks.com"
+      "email": ""
     }
   },
-  "host": "<domain>.mckinsey-solutions.com",
+  "host": "",
   "basePath": "/<app>/sb",
   "tags": [
     {
